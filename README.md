@@ -54,4 +54,14 @@ The dataset consists of 11 input variables derived from physicochemical tests an
 
 ## Conclusion
 
-This project demonstrates the application of logistic regression with regularization techniques to classify the quality of red wine. By using ridge and lasso regularizations, the project aims to enhance the model's performance and identify key features contributing to wine quality.
+This project demonstrates the application of logistic regression with regularization techniques to classify the quality of red wine. The project aims to enhance the model's performance and identify key features contributing to wine quality by using ridge and lasso regularisations.
+
+## Outputs
+
+![image](https://github.com/user-attachments/assets/29641c67-0aa4-4761-b117-a078764156c5)
+
+![image](https://github.com/user-attachments/assets/1b626b6a-9e59-49da-83fa-5d3e169c58d4)
+
+![image](https://github.com/user-attachments/assets/0bcb2d0c-46bd-4e28-9cad-a03d8733c49c)
+
+
